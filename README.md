@@ -1,5 +1,5 @@
-### Hello there.
-## General Kenobi
+## Hello there, 
+### General Kenobi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eko2okna&show_icons=true)  
 <!--
