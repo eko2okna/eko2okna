@@ -1,8 +1,10 @@
 ### Hello there.
 ### General Kenobi
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eko2okna)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eko2okna&show_icons=true)  
 <!--
-**janekdzbanek1234/janekdzbanek1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eko2okna/eko2okna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
