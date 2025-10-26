@@ -1,7 +1,7 @@
 ## Hello there, 
 ### General Kenobi
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eko2okna&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eko2okna)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eko2okna&layout=compact&theme=highcontrast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eko2okna&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **eko2okna/eko2okna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
